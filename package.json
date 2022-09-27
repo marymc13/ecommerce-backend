@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.23.1"
+  },
+  "name": "ecommerce-backend",
+  "description": "backend development for an ecommerce site",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marymc13/ecommerce-backend.git"
+  },
+  "author": "Mary Paul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marymc13/ecommerce-backend/issues"
+  },
+  "homepage": "https://github.com/marymc13/ecommerce-backend#readme"
+}
